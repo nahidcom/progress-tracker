@@ -106,7 +106,7 @@
 }
 
 .btn-white {
-	color:#212121;
+	color:#fff;
 	background-color: #333;
 	text-decoration: none;
 	padding: 10px 15px;
@@ -120,12 +120,8 @@
 	letter-spacing: 2px;
 }
 
-.btn-white a{
-	
-}
-
 .btn-white a:link{
-	color:#212121;
+	color:#fff;
 	text-decoration: none;
 }
 
